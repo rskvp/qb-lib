@@ -1,4 +1,4 @@
-package lib_imap
+package qb_imap
 
 import (
 	qbc "github.com/rskvp/qb-core"
