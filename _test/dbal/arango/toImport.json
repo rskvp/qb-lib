@@ -1,0 +1,12 @@
+[
+  {
+    "_key": "01",
+    "name": "Sample",
+    "description": "This is a sample item to import"
+  },
+  {
+    "_key": "02",
+    "name": "Another Sample",
+    "description": "This is a another sample to import"
+  }
+]

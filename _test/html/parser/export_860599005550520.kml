@@ -1,0 +1,2042 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="Massimiliano_Verde">
+    <Folder id="FeatureLayer0">
+      <Placemark>
+        <LineString>
+          <coordinates>8.315147,40.57573 8.322561,40.546721 8.337422,40.523526 8.358066,40.503405 8.377763,40.483221 8.386459,40.45705 8.399367,40.438231 8.402162,40.425997 8.409053,40.402425 8.402701,40.38798 8.406056,40.378296 8.44618,40.326845 8.483936,40.314036 8.483884,40.282521 8.489305,40.267824 8.509614,40.259318 8.523579,40.256441 8.53602,40.232296 8.562507,40.210398 8.574035,40.200862 8.557951,40.191158 8.566264,40.186573 8.573597,40.184477 8.578526,40.181269 8.593165,40.175487 8.602484,40.175034 8.600884,40.17655 8.573588,40.185116 8.567797,40.189264 8.567797,40.189264 8.567797,40.189264 8.567797,40.189264 8.567797,40.189264 8.560578,40.1858 8.560928,40.185769 8.560928,40.185769 8.56067,40.185975 8.56067,40.185975 8.560805,40.185816 8.560601,40.185707 8.560601,40.185707 8.54908,40.197388 8.553814,40.197786 8.556799,40.213845 8.537278,40.229404 8.521491,40.248722 8.537483,40.26704 8.548076,40.268899 8.551387,40.283753 8.503316,40.291616 8.48502,40.297401 8.48502,40.297401 8.48502,40.297401 8.48502,40.297401 8.487409,40.309876 8.458272,40.321026 8.435561,40.332803 8.427923,40.343128 8.429661,40.352268 8.411502,40.364301 8.404157,40.377173 8.410711,40.403708 8.408366,40.416598 8.394315,40.443215 8.379852,40.47718 8.366222,40.499984 8.35205,40.512686 8.33208,40.524948 8.321271,40.548337 8.317332,40.558074 8.316959,40.563138 8.318528,40.56656 8.317968,40.571537 8.313141,40.577006 8.311911,40.579312 8.311911,40.579312 8.311733,40.579542 8.311733,40.579542 8.311888,40.579324 8.312234,40.579234 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312867,40.577805 8.312264,40.578401 8.312237,40.579118 8.312197,40.579409 8.312197,40.579409 8.31224,40.579199 8.31224,40.579199 8.31224,40.579199 8.31185,40.5794 8.31185,40.5794 8.312227,40.579266 8.312227,40.579266 8.312227,40.579266 8.312227,40.579266 8.312227,40.579266 8.312227,40.579266 8.312227,40.579266 8.311996,40.579369 8.311996,40.579369 8.311996,40.579369</coordinates>
+        </LineString>
+        <Style id="customline">
+          <LineStyle>
+            <color>46F0A014</color>
+            <width>6</width>
+          </LineStyle>
+        </Style>
+      </Placemark>
+      <name>Massimiliano_Verde</name>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 06:09:34<br /><span><b>Lat.: </b></span>40,57573<br /><span><b>Long.: </b></span>8,315147<br /><span><b>Velocità (Km/h): </b></span>23.8<br /><span><b>Altitudine (m): </b></span>5.6<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16118701">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.315147,40.57573,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 06:19:32<br /><span><b>Lat.: </b></span>40,546721<br /><span><b>Long.: </b></span>8,322561<br /><span><b>Velocità (Km/h): </b></span>29.3<br /><span><b>Altitudine (m): </b></span>14.5<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16118816">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.322561,40.546721,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 06:29:31<br /><span><b>Lat.: </b></span>40,523526<br /><span><b>Long.: </b></span>8,337422<br /><span><b>Velocità (Km/h): </b></span>8.1<br /><span><b>Altitudine (m): </b></span>66.7<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16118945">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.337422,40.523526,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 06:39:30<br /><span><b>Lat.: </b></span>40,503405<br /><span><b>Long.: </b></span>8,358066<br /><span><b>Velocità (Km/h): </b></span>16.8<br /><span><b>Altitudine (m): </b></span>71.4<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16119093">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.358066,40.503405,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 06:49:27<br /><span><b>Lat.: </b></span>40,483221<br /><span><b>Long.: </b></span>8,377763<br /><span><b>Velocità (Km/h): </b></span>23.8<br /><span><b>Altitudine (m): </b></span>36.1<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16119222">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.377763,40.483221,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 06:59:28<br /><span><b>Lat.: </b></span>40,45705<br /><span><b>Long.: </b></span>8,386459<br /><span><b>Velocità (Km/h): </b></span>19.8<br /><span><b>Altitudine (m): </b></span>67.0<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16119389">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.386459,40.45705,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 07:09:23<br /><span><b>Lat.: </b></span>40,438231<br /><span><b>Long.: </b></span>8,399367<br /><span><b>Velocità (Km/h): </b></span>10.1<br /><span><b>Altitudine (m): </b></span>109.4<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16119579">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.399367,40.438231,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 07:19:43<br /><span><b>Lat.: </b></span>40,425997<br /><span><b>Long.: </b></span>8,402162<br /><span><b>Velocità (Km/h): </b></span>11.3<br /><span><b>Altitudine (m): </b></span>204.1<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16119692">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.402162,40.425997,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 07:29:21<br /><span><b>Lat.: </b></span>40,402425<br /><span><b>Long.: </b></span>8,409053<br /><span><b>Velocità (Km/h): </b></span>11.3<br /><span><b>Altitudine (m): </b></span>169.1<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16119826">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.409053,40.402425,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 07:39:19<br /><span><b>Lat.: </b></span>40,38798<br /><span><b>Long.: </b></span>8,402701<br /><span><b>Velocità (Km/h): </b></span>23.3<br /><span><b>Altitudine (m): </b></span>206.8<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16120048">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.402701,40.38798,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 07:49:16<br /><span><b>Lat.: </b></span>40,378296<br /><span><b>Long.: </b></span>8,406056<br /><span><b>Velocità (Km/h): </b></span>8.2<br /><span><b>Altitudine (m): </b></span>324.8<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16120246">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.406056,40.378296,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 08:09:13<br /><span><b>Lat.: </b></span>40,326845<br /><span><b>Long.: </b></span>8,44618<br /><span><b>Velocità (Km/h): </b></span>13.8<br /><span><b>Altitudine (m): </b></span>42.4<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16120621">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.44618,40.326845,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 08:19:10<br /><span><b>Lat.: </b></span>40,314036<br /><span><b>Long.: </b></span>8,483936<br /><span><b>Velocità (Km/h): </b></span>10.4<br /><span><b>Altitudine (m): </b></span>64.2<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16120787">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.483936,40.314036,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 08:29:10<br /><span><b>Lat.: </b></span>40,282521<br /><span><b>Long.: </b></span>8,483884<br /><span><b>Velocità (Km/h): </b></span>25.0<br /><span><b>Altitudine (m): </b></span>5.1<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16120956">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.483884,40.282521,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 08:39:07<br /><span><b>Lat.: </b></span>40,267824<br /><span><b>Long.: </b></span>8,489305<br /><span><b>Velocità (Km/h): </b></span>10.5<br /><span><b>Altitudine (m): </b></span>85.0<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16121156">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.489305,40.267824,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 08:49:05<br /><span><b>Lat.: </b></span>40,259318<br /><span><b>Long.: </b></span>8,509614<br /><span><b>Velocità (Km/h): </b></span>13.1<br /><span><b>Altitudine (m): </b></span>181.2<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16121339">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.509614,40.259318,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 08:59:04<br /><span><b>Lat.: </b></span>40,256441<br /><span><b>Long.: </b></span>8,523579<br /><span><b>Velocità (Km/h): </b></span>15.3<br /><span><b>Altitudine (m): </b></span>277.0<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16121487">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.523579,40.256441,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 09:09:02<br /><span><b>Lat.: </b></span>40,232296<br /><span><b>Long.: </b></span>8,53602<br /><span><b>Velocità (Km/h): </b></span>10.4<br /><span><b>Altitudine (m): </b></span>256.0<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16121659">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.53602,40.232296,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 09:19:05<br /><span><b>Lat.: </b></span>40,210398<br /><span><b>Long.: </b></span>8,562507<br /><span><b>Velocità (Km/h): </b></span>13.9<br /><span><b>Altitudine (m): </b></span>275.9<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16121808">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.562507,40.210398,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 09:28:59<br /><span><b>Lat.: </b></span>40,200862<br /><span><b>Long.: </b></span>8,574035<br /><span><b>Velocità (Km/h): </b></span>10.9<br /><span><b>Altitudine (m): </b></span>344.6<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16121962">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.574035,40.200862,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 09:38:56<br /><span><b>Lat.: </b></span>40,191158<br /><span><b>Long.: </b></span>8,557951<br /><span><b>Velocità (Km/h): </b></span>6.6<br /><span><b>Altitudine (m): </b></span>322.4<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16122131">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.557951,40.191158,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 09:49:13<br /><span><b>Lat.: </b></span>40,186573<br /><span><b>Long.: </b></span>8,566264<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>429.0<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16122294">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/0974f506a2d94ea8a226f21248c56200/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.566264,40.186573,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 09:58:56<br /><span><b>Lat.: </b></span>40,184477<br /><span><b>Long.: </b></span>8,573597<br /><span><b>Velocità (Km/h): </b></span>4.9<br /><span><b>Altitudine (m): </b></span>515.1<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16122469">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.573597,40.184477,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 10:09:12<br /><span><b>Lat.: </b></span>40,181269<br /><span><b>Long.: </b></span>8,578526<br /><span><b>Velocità (Km/h): </b></span>10.2<br /><span><b>Altitudine (m): </b></span>555.7<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16122619">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.578526,40.181269,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 10:19:01<br /><span><b>Lat.: </b></span>40,175487<br /><span><b>Long.: </b></span>8,593165<br /><span><b>Velocità (Km/h): </b></span>8.8<br /><span><b>Altitudine (m): </b></span>647.5<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16122777">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.593165,40.175487,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 10:28:54<br /><span><b>Lat.: </b></span>40,175034<br /><span><b>Long.: </b></span>8,602484<br /><span><b>Velocità (Km/h): </b></span>6.9<br /><span><b>Altitudine (m): </b></span>769.3<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16122992">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.602484,40.175034,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 10:38:51<br /><span><b>Lat.: </b></span>40,17655<br /><span><b>Long.: </b></span>8,600884<br /><span><b>Velocità (Km/h): </b></span>23.2<br /><span><b>Altitudine (m): </b></span>756.9<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16123091">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.600884,40.17655,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 10:48:47<br /><span><b>Lat.: </b></span>40,185116<br /><span><b>Long.: </b></span>8,573588<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>477.7<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16123254">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/0974f506a2d94ea8a226f21248c56200/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.573588,40.185116,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 10:58:50<br /><span><b>Lat.: </b></span>40,189264<br /><span><b>Long.: </b></span>8,567797<br /><span><b>Velocità (Km/h): </b></span>1.2<br /><span><b>Altitudine (m): </b></span>460.3<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16123416">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.567797,40.189264,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>14/10/2022 10:58:50<br /><span><b>Lat.: </b></span>40,189264<br /><span><b>Long.: </b></span>8,567797<br /><span><b>Velocità (Km/h): </b></span>1.2<br /><span><b>Altitudine (m): </b></span>460.3<br /><span><b>Batteria (%): </b></span>99</div>]]></description>
+        <Style id="style_16123877">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.567797,40.189264,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>14/10/2022 10:58:50<br /><span><b>Lat.: </b></span>40,189264<br /><span><b>Long.: </b></span>8,567797<br /><span><b>Velocità (Km/h): </b></span>1.2<br /><span><b>Altitudine (m): </b></span>460.3<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16123966">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.567797,40.189264,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>14/10/2022 10:58:50<br /><span><b>Lat.: </b></span>40,189264<br /><span><b>Long.: </b></span>8,567797<br /><span><b>Velocità (Km/h): </b></span>1.2<br /><span><b>Altitudine (m): </b></span>460.3<br /><span><b>Batteria (%): </b></span>99</div>]]></description>
+        <Style id="style_16124227">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.567797,40.189264,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>14/10/2022 10:58:50<br /><span><b>Lat.: </b></span>40,189264<br /><span><b>Long.: </b></span>8,567797<br /><span><b>Velocità (Km/h): </b></span>1.2<br /><span><b>Altitudine (m): </b></span>460.3<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16124308">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.567797,40.189264,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 12:00:08<br /><span><b>Lat.: </b></span>40,1858<br /><span><b>Long.: </b></span>8,560578<br /><span><b>Velocità (Km/h): </b></span>2.4<br /><span><b>Altitudine (m): </b></span>438.6<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16124499">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.560578,40.1858,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 12:09:09<br /><span><b>Lat.: </b></span>40,185769<br /><span><b>Long.: </b></span>8,560928<br /><span><b>Velocità (Km/h): </b></span>0.9<br /><span><b>Altitudine (m): </b></span>327.5<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16124678">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.560928,40.185769,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>14/10/2022 12:12:32<br /><span><b>Lat.: </b></span>40,185769<br /><span><b>Long.: </b></span>8,560928<br /><span><b>Velocità (Km/h): </b></span>0.9<br /><span><b>Altitudine (m): </b></span>327.5<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16124691">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.560928,40.185769,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>14/10/2022 12:18:28<br /><span><b>Lat.: </b></span>40,185975<br /><span><b>Long.: </b></span>8,56067<br /><span><b>Velocità (Km/h): </b></span>2.5<br /><span><b>Altitudine (m): </b></span>389.4<br /><span><b>Batteria (%): </b></span>100</div>]]></description>
+        <Style id="style_16124789">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.56067,40.185975,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 12:18:28<br /><span><b>Lat.: </b></span>40,185975<br /><span><b>Long.: </b></span>8,56067<br /><span><b>Velocità (Km/h): </b></span>2.5<br /><span><b>Altitudine (m): </b></span>389.4<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16124839">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.56067,40.185975,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>14/10/2022 12:31:34<br /><span><b>Lat.: </b></span>40,185816<br /><span><b>Long.: </b></span>8,560805<br /><span><b>Velocità (Km/h): </b></span>1.8<br /><span><b>Altitudine (m): </b></span>343.2<br /><span><b>Batteria (%): </b></span>99</div>]]></description>
+        <Style id="style_16125013">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.560805,40.185816,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>14/10/2022 12:31:57<br /><span><b>Lat.: </b></span>40,185707<br /><span><b>Long.: </b></span>8,560601<br /><span><b>Velocità (Km/h): </b></span>1.4<br /><span><b>Altitudine (m): </b></span>379.6<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16125024">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.560601,40.185707,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 12:38:39<br /><span><b>Lat.: </b></span>40,185707<br /><span><b>Long.: </b></span>8,560601<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>379.6<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16125180">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/0974f506a2d94ea8a226f21248c56200/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.560601,40.185707,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 12:48:26<br /><span><b>Lat.: </b></span>40,197388<br /><span><b>Long.: </b></span>8,54908<br /><span><b>Velocità (Km/h): </b></span>2.3<br /><span><b>Altitudine (m): </b></span>242.3<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16125353">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.54908,40.197388,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 12:58:26<br /><span><b>Lat.: </b></span>40,197786<br /><span><b>Long.: </b></span>8,553814<br /><span><b>Velocità (Km/h): </b></span>9.9<br /><span><b>Altitudine (m): </b></span>295.5<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16125529">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.553814,40.197786,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 13:09:39<br /><span><b>Lat.: </b></span>40,213845<br /><span><b>Long.: </b></span>8,556799<br /><span><b>Velocità (Km/h): </b></span>9.5<br /><span><b>Altitudine (m): </b></span>265.1<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16125810">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.556799,40.213845,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 13:18:25<br /><span><b>Lat.: </b></span>40,229404<br /><span><b>Long.: </b></span>8,537278<br /><span><b>Velocità (Km/h): </b></span>26.9<br /><span><b>Altitudine (m): </b></span>280.4<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16126112">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.537278,40.229404,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 13:28:26<br /><span><b>Lat.: </b></span>40,248722<br /><span><b>Long.: </b></span>8,521491<br /><span><b>Velocità (Km/h): </b></span>19.5<br /><span><b>Altitudine (m): </b></span>259.7<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16126342">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.521491,40.248722,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 13:38:33<br /><span><b>Lat.: </b></span>40,26704<br /><span><b>Long.: </b></span>8,537483<br /><span><b>Velocità (Km/h): </b></span>8.9<br /><span><b>Altitudine (m): </b></span>313.9<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16126602">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.537483,40.26704,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 13:48:16<br /><span><b>Lat.: </b></span>40,268899<br /><span><b>Long.: </b></span>8,548076<br /><span><b>Velocità (Km/h): </b></span>0.6<br /><span><b>Altitudine (m): </b></span>378.7<br /><span><b>Batteria (%): </b></span>97</div>]]></description>
+        <Style id="style_16126848">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.548076,40.268899,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 13:58:12<br /><span><b>Lat.: </b></span>40,283753<br /><span><b>Long.: </b></span>8,551387<br /><span><b>Velocità (Km/h): </b></span>19.7<br /><span><b>Altitudine (m): </b></span>345.0<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16127092">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.551387,40.283753,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 14:08:12<br /><span><b>Lat.: </b></span>40,291616<br /><span><b>Long.: </b></span>8,503316<br /><span><b>Velocità (Km/h): </b></span>34.6<br /><span><b>Altitudine (m): </b></span>10.6<br /><span><b>Batteria (%): </b></span>97</div>]]></description>
+        <Style id="style_16127390">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.503316,40.291616,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 14:18:35<br /><span><b>Lat.: </b></span>40,297401<br /><span><b>Long.: </b></span>8,48502<br /><span><b>Velocità (Km/h): </b></span>0.4<br /><span><b>Altitudine (m): </b></span>19.5<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16127599">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.48502,40.297401,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>14/10/2022 14:30:13<br /><span><b>Lat.: </b></span>40,297401<br /><span><b>Long.: </b></span>8,48502<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>19.5<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16129070">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/e21054f01e674d63962f31b1efb160d2/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.48502,40.297401,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>14/10/2022 15:03:52<br /><span><b>Lat.: </b></span>40,297401<br /><span><b>Long.: </b></span>8,48502<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>19.5<br /><span><b>Batteria (%): </b></span>97</div>]]></description>
+        <Style id="style_16129068">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.48502,40.297401,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 15:08:03<br /><span><b>Lat.: </b></span>40,297401<br /><span><b>Long.: </b></span>8,48502<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>19.5<br /><span><b>Batteria (%): </b></span>97</div>]]></description>
+        <Style id="style_16129069">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/0974f506a2d94ea8a226f21248c56200/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.48502,40.297401,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 15:17:57<br /><span><b>Lat.: </b></span>40,309876<br /><span><b>Long.: </b></span>8,487409<br /><span><b>Velocità (Km/h): </b></span>10.1<br /><span><b>Altitudine (m): </b></span>60.8<br /><span><b>Batteria (%): </b></span>96</div>]]></description>
+        <Style id="style_16129406">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.487409,40.309876,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 15:27:56<br /><span><b>Lat.: </b></span>40,321026<br /><span><b>Long.: </b></span>8,458272<br /><span><b>Velocità (Km/h): </b></span>10.7<br /><span><b>Altitudine (m): </b></span>50.6<br /><span><b>Batteria (%): </b></span>97</div>]]></description>
+        <Style id="style_16129465">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.458272,40.321026,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 15:37:54<br /><span><b>Lat.: </b></span>40,332803<br /><span><b>Long.: </b></span>8,435561<br /><span><b>Velocità (Km/h): </b></span>10.0<br /><span><b>Altitudine (m): </b></span>73.7<br /><span><b>Batteria (%): </b></span>98</div>]]></description>
+        <Style id="style_16129765">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.435561,40.332803,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 15:47:53<br /><span><b>Lat.: </b></span>40,343128<br /><span><b>Long.: </b></span>8,427923<br /><span><b>Velocità (Km/h): </b></span>5.1<br /><span><b>Altitudine (m): </b></span>155.0<br /><span><b>Batteria (%): </b></span>97</div>]]></description>
+        <Style id="style_16130015">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.427923,40.343128,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 15:57:56<br /><span><b>Lat.: </b></span>40,352268<br /><span><b>Long.: </b></span>8,429661<br /><span><b>Velocità (Km/h): </b></span>1.3<br /><span><b>Altitudine (m): </b></span>258.8<br /><span><b>Batteria (%): </b></span>96</div>]]></description>
+        <Style id="style_16130329">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.429661,40.352268,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 16:07:49<br /><span><b>Lat.: </b></span>40,364301<br /><span><b>Long.: </b></span>8,411502<br /><span><b>Velocità (Km/h): </b></span>6.4<br /><span><b>Altitudine (m): </b></span>323.2<br /><span><b>Batteria (%): </b></span>97</div>]]></description>
+        <Style id="style_16130575">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.411502,40.364301,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 16:18:05<br /><span><b>Lat.: </b></span>40,377173<br /><span><b>Long.: </b></span>8,404157<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>337.4<br /><span><b>Batteria (%): </b></span>96</div>]]></description>
+        <Style id="style_16130838">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/0974f506a2d94ea8a226f21248c56200/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.404157,40.377173,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 16:27:45<br /><span><b>Lat.: </b></span>40,403708<br /><span><b>Long.: </b></span>8,410711<br /><span><b>Velocità (Km/h): </b></span>39.4<br /><span><b>Altitudine (m): </b></span>166.2<br /><span><b>Batteria (%): </b></span>96</div>]]></description>
+        <Style id="style_16131145">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.410711,40.403708,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 16:37:44<br /><span><b>Lat.: </b></span>40,416598<br /><span><b>Long.: </b></span>8,408366<br /><span><b>Velocità (Km/h): </b></span>18.2<br /><span><b>Altitudine (m): </b></span>245.7<br /><span><b>Batteria (%): </b></span>96</div>]]></description>
+        <Style id="style_16131348">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.408366,40.416598,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 16:47:43<br /><span><b>Lat.: </b></span>40,443215<br /><span><b>Long.: </b></span>8,394315<br /><span><b>Velocità (Km/h): </b></span>1.7<br /><span><b>Altitudine (m): </b></span>151.5<br /><span><b>Batteria (%): </b></span>95</div>]]></description>
+        <Style id="style_16131652">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.394315,40.443215,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 16:57:40<br /><span><b>Lat.: </b></span>40,47718<br /><span><b>Long.: </b></span>8,379852<br /><span><b>Velocità (Km/h): </b></span>15.5<br /><span><b>Altitudine (m): </b></span>61.7<br /><span><b>Batteria (%): </b></span>97</div>]]></description>
+        <Style id="style_16131891">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.379852,40.47718,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 17:07:42<br /><span><b>Lat.: </b></span>40,499984<br /><span><b>Long.: </b></span>8,366222<br /><span><b>Velocità (Km/h): </b></span>4.6<br /><span><b>Altitudine (m): </b></span>57.9<br /><span><b>Batteria (%): </b></span>96</div>]]></description>
+        <Style id="style_16132188">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.366222,40.499984,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 17:17:37<br /><span><b>Lat.: </b></span>40,512686<br /><span><b>Long.: </b></span>8,35205<br /><span><b>Velocità (Km/h): </b></span>13.9<br /><span><b>Altitudine (m): </b></span>105.3<br /><span><b>Batteria (%): </b></span>96</div>]]></description>
+        <Style id="style_16132453">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.35205,40.512686,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 17:27:35<br /><span><b>Lat.: </b></span>40,524948<br /><span><b>Long.: </b></span>8,33208<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>11.0<br /><span><b>Batteria (%): </b></span>96</div>]]></description>
+        <Style id="style_16132700">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/0974f506a2d94ea8a226f21248c56200/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.33208,40.524948,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 17:37:36<br /><span><b>Lat.: </b></span>40,548337<br /><span><b>Long.: </b></span>8,321271<br /><span><b>Velocità (Km/h): </b></span>10.0<br /><span><b>Altitudine (m): </b></span>62.0<br /><span><b>Batteria (%): </b></span>95</div>]]></description>
+        <Style id="style_16132978">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.321271,40.548337,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 17:48:14<br /><span><b>Lat.: </b></span>40,558074<br /><span><b>Long.: </b></span>8,317332<br /><span><b>Velocità (Km/h): </b></span>2.5<br /><span><b>Altitudine (m): </b></span>32.0<br /><span><b>Batteria (%): </b></span>95</div>]]></description>
+        <Style id="style_16133205">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.317332,40.558074,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 17:57:30<br /><span><b>Lat.: </b></span>40,563138<br /><span><b>Long.: </b></span>8,316959<br /><span><b>Velocità (Km/h): </b></span>25.7<br /><span><b>Altitudine (m): </b></span>-7.7<br /><span><b>Batteria (%): </b></span>95</div>]]></description>
+        <Style id="style_16133511">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.316959,40.563138,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 18:17:41<br /><span><b>Lat.: </b></span>40,56656<br /><span><b>Long.: </b></span>8,318528<br /><span><b>Velocità (Km/h): </b></span>5.4<br /><span><b>Altitudine (m): </b></span>30.4<br /><span><b>Batteria (%): </b></span>94</div>]]></description>
+        <Style id="style_16133981">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.318528,40.56656,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 18:27:29<br /><span><b>Lat.: </b></span>40,571537<br /><span><b>Long.: </b></span>8,317968<br /><span><b>Velocità (Km/h): </b></span>4.0<br /><span><b>Altitudine (m): </b></span>28.8<br /><span><b>Batteria (%): </b></span>95</div>]]></description>
+        <Style id="style_16134208">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.317968,40.571537,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 18:37:41<br /><span><b>Lat.: </b></span>40,577006<br /><span><b>Long.: </b></span>8,313141<br /><span><b>Velocità (Km/h): </b></span>5.7<br /><span><b>Altitudine (m): </b></span>5.6<br /><span><b>Batteria (%): </b></span>95</div>]]></description>
+        <Style id="style_16134436">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.313141,40.577006,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 18:47:24<br /><span><b>Lat.: </b></span>40,579312<br /><span><b>Long.: </b></span>8,311911<br /><span><b>Velocità (Km/h): </b></span>0.4<br /><span><b>Altitudine (m): </b></span>-9.8<br /><span><b>Batteria (%): </b></span>93</div>]]></description>
+        <Style id="style_16134685">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.311911,40.579312,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>14/10/2022 18:53:36<br /><span><b>Lat.: </b></span>40,579312<br /><span><b>Long.: </b></span>8,311911<br /><span><b>Velocità (Km/h): </b></span>0.4<br /><span><b>Altitudine (m): </b></span>-9.8<br /><span><b>Batteria (%): </b></span>95</div>]]></description>
+        <Style id="style_16134729">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.311911,40.579312,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>14/10/2022 19:21:39<br /><span><b>Lat.: </b></span>40,579542<br /><span><b>Long.: </b></span>8,311733<br /><span><b>Velocità (Km/h): </b></span>2.1<br /><span><b>Altitudine (m): </b></span>79.0<br /><span><b>Batteria (%): </b></span>93</div>]]></description>
+        <Style id="style_16135328">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.311733,40.579542,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>14/10/2022 19:27:30<br /><span><b>Lat.: </b></span>40,579542<br /><span><b>Long.: </b></span>8,311733<br /><span><b>Velocità (Km/h): </b></span>2.1<br /><span><b>Altitudine (m): </b></span>79.0<br /><span><b>Batteria (%): </b></span>94</div>]]></description>
+        <Style id="style_16135495">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.311733,40.579542,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>14/10/2022 19:36:17<br /><span><b>Lat.: </b></span>40,579324<br /><span><b>Long.: </b></span>8,311888<br /><span><b>Velocità (Km/h): </b></span>0.1<br /><span><b>Altitudine (m): </b></span>10.0<br /><span><b>Batteria (%): </b></span>94</div>]]></description>
+        <Style id="style_16135612">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.311888,40.579324,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 11:10:14<br /><span><b>Lat.: </b></span>40,579234<br /><span><b>Long.: </b></span>8,312234<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>-14.6<br /><span><b>Batteria (%): </b></span>86</div>]]></description>
+        <Style id="style_16148512">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312234,40.579234,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>15/10/2022 11:14:31<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.6<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>86</div>]]></description>
+        <Style id="style_16148785">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>15/10/2022 11:24:26<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.6<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>87</div>]]></description>
+        <Style id="style_16149202">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 11:35:54<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>86</div>]]></description>
+        <Style id="style_16149542">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 12:23:34<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>86</div>]]></description>
+        <Style id="style_16151326">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>15/10/2022 12:24:15<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>86</div>]]></description>
+        <Style id="style_16151425">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/0974f506a2d94ea8a226f21248c56200/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 12:30:23<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>86</div>]]></description>
+        <Style id="style_16151583">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 12:35:57<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>86</div>]]></description>
+        <Style id="style_16151799">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 12:42:24<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>86</div>]]></description>
+        <Style id="style_16152038">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 12:43:09<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>86</div>]]></description>
+        <Style id="style_16152079">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>15/10/2022 12:44:12<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>86</div>]]></description>
+        <Style id="style_16152212">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/0974f506a2d94ea8a226f21248c56200/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 12:55:02<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>85</div>]]></description>
+        <Style id="style_16152500">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 13:09:41<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>85</div>]]></description>
+        <Style id="style_16153039">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 13:16:09<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>85</div>]]></description>
+        <Style id="style_16153275">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 14:28:00<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>84</div>]]></description>
+        <Style id="style_16155815">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 14:35:34<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>84</div>]]></description>
+        <Style id="style_16156048">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 15:04:02<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>85</div>]]></description>
+        <Style id="style_16156928">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 15:10:27<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>85</div>]]></description>
+        <Style id="style_16157115">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 15:33:49<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>84</div>]]></description>
+        <Style id="style_16157805">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>15/10/2022 15:43:40<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>83</div>]]></description>
+        <Style id="style_16158168">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/0974f506a2d94ea8a226f21248c56200/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 15:46:44<br /><span><b>Lat.: </b></span>40,577805<br /><span><b>Long.: </b></span>8,312867<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.0<br /><span><b>Batteria (%): </b></span>83</div>]]></description>
+        <Style id="style_16158176">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312867,40.577805,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 15:59:59<br /><span><b>Lat.: </b></span>40,578401<br /><span><b>Long.: </b></span>8,312264<br /><span><b>Velocità (Km/h): </b></span>0.9<br /><span><b>Altitudine (m): </b></span>-7.0<br /><span><b>Batteria (%): </b></span>84</div>]]></description>
+        <Style id="style_16158565">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312264,40.578401,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>15/10/2022 16:03:44<br /><span><b>Lat.: </b></span>40,579118<br /><span><b>Long.: </b></span>8,312237<br /><span><b>Velocità (Km/h): </b></span>0.9<br /><span><b>Altitudine (m): </b></span>-14.4<br /><span><b>Batteria (%): </b></span>84</div>]]></description>
+        <Style id="style_16158763">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/68a43d2f7b0b4972a774090c5a19567f/data</href>
+            </Icon>
+            <scale>0.4</scale>
+            <hotSpot x="4" y="4" width="8" height="8" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312237,40.579118,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 16:13:34<br /><span><b>Lat.: </b></span>40,579409<br /><span><b>Long.: </b></span>8,312197<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>-21.9<br /><span><b>Batteria (%): </b></span>83</div>]]></description>
+        <Style id="style_16158947">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312197,40.579409,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 16:16:39<br /><span><b>Lat.: </b></span>40,579409<br /><span><b>Long.: </b></span>8,312197<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>-21.9<br /><span><b>Batteria (%): </b></span>83</div>]]></description>
+        <Style id="style_16159005">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312197,40.579409,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 16:22:53<br /><span><b>Lat.: </b></span>40,579199<br /><span><b>Long.: </b></span>8,31224<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.5<br /><span><b>Batteria (%): </b></span>84</div>]]></description>
+        <Style id="style_16159202">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.31224,40.579199,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 16:51:38<br /><span><b>Lat.: </b></span>40,579199<br /><span><b>Long.: </b></span>8,31224<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.5<br /><span><b>Batteria (%): </b></span>84</div>]]></description>
+        <Style id="style_16159978">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.31224,40.579199,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>15/10/2022 16:53:28<br /><span><b>Lat.: </b></span>40,579199<br /><span><b>Long.: </b></span>8,31224<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>2.5<br /><span><b>Batteria (%): </b></span>83</div>]]></description>
+        <Style id="style_16160121">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/0974f506a2d94ea8a226f21248c56200/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.31224,40.579199,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 17:03:04<br /><span><b>Lat.: </b></span>40,5794<br /><span><b>Long.: </b></span>8,31185<br /><span><b>Velocità (Km/h): </b></span>7.1<br /><span><b>Altitudine (m): </b></span>-19.6<br /><span><b>Batteria (%): </b></span>83</div>]]></description>
+        <Style id="style_16160318">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.31185,40.5794,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 17:44:31<br /><span><b>Lat.: </b></span>40,5794<br /><span><b>Long.: </b></span>8,31185<br /><span><b>Velocità (Km/h): </b></span>7.1<br /><span><b>Altitudine (m): </b></span>-19.6<br /><span><b>Batteria (%): </b></span>83</div>]]></description>
+        <Style id="style_16161432">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.31185,40.5794,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 17:52:03<br /><span><b>Lat.: </b></span>40,579266<br /><span><b>Long.: </b></span>8,312227<br /><span><b>Velocità (Km/h): </b></span>0.2<br /><span><b>Altitudine (m): </b></span>23.1<br /><span><b>Batteria (%): </b></span>83</div>]]></description>
+        <Style id="style_16161618">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312227,40.579266,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 17:56:42<br /><span><b>Lat.: </b></span>40,579266<br /><span><b>Long.: </b></span>8,312227<br /><span><b>Velocità (Km/h): </b></span>0.2<br /><span><b>Altitudine (m): </b></span>23.1<br /><span><b>Batteria (%): </b></span>83</div>]]></description>
+        <Style id="style_16161713">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312227,40.579266,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 18:02:58<br /><span><b>Lat.: </b></span>40,579266<br /><span><b>Long.: </b></span>8,312227<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>23.1<br /><span><b>Batteria (%): </b></span>83</div>]]></description>
+        <Style id="style_16161866">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312227,40.579266,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 18:31:02<br /><span><b>Lat.: </b></span>40,579266<br /><span><b>Long.: </b></span>8,312227<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>23.1<br /><span><b>Batteria (%): </b></span>81</div>]]></description>
+        <Style id="style_16162516">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312227,40.579266,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è in movimento.</i></span><br /><span><b>Data: </b></span>15/10/2022 18:33:11<br /><span><b>Lat.: </b></span>40,579266<br /><span><b>Long.: </b></span>8,312227<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>23.1<br /><span><b>Batteria (%): </b></span>82</div>]]></description>
+        <Style id="style_16162630">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/0974f506a2d94ea8a226f21248c56200/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312227,40.579266,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 18:42:40<br /><span><b>Lat.: </b></span>40,579266<br /><span><b>Long.: </b></span>8,312227<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>23.1<br /><span><b>Batteria (%): </b></span>82</div>]]></description>
+        <Style id="style_16162800">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312227,40.579266,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 20:46:02<br /><span><b>Lat.: </b></span>40,579266<br /><span><b>Long.: </b></span>8,312227<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>23.1<br /><span><b>Batteria (%): </b></span>81</div>]]></description>
+        <Style id="style_16164886">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.312227,40.579266,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 si è fermato.</i></span><br /><span><b>Data: </b></span>15/10/2022 20:52:00<br /><span><b>Lat.: </b></span>40,579369<br /><span><b>Long.: </b></span>8,311996<br /><span><b>Velocità (Km/h): </b></span>1.2<br /><span><b>Altitudine (m): </b></span>-28.5<br /><span><b>Batteria (%): </b></span>81</div>]]></description>
+        <Style id="style_16164973">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.311996,40.579369,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è partito.</i></span><br /><span><b>Data: </b></span>15/10/2022 21:15:09<br /><span><b>Lat.: </b></span>40,579369<br /><span><b>Long.: </b></span>8,311996<br /><span><b>Velocità (Km/h): </b></span>1.2<br /><span><b>Altitudine (m): </b></span>-28.5<br /><span><b>Batteria (%): </b></span>81</div>]]></description>
+        <Style id="style_16165199">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/46164b2695ea4d26bd66f04134768073/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.311996,40.579369,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimiliano_Verde</name>
+        <description><![CDATA[<div style='font-size:0.8em;margin:0;padding:0'><h3 style='font-size:0.9em' >(D104) 32 - Massimiliano_Verde</h3><span><i>D104 è spento.</i></span><br /><span><b>Data: </b></span>15/10/2022 21:20:52<br /><span><b>Lat.: </b></span>40,579369<br /><span><b>Long.: </b></span>8,311996<br /><span><b>Velocità (Km/h): </b></span>0.0<br /><span><b>Altitudine (m): </b></span>-28.5<br /><span><b>Batteria (%): </b></span>81</div>]]></description>
+        <Style id="style_16165261">
+          <IconStyle>
+            <Icon>
+              <href>https://setesrl.maps.arcgis.com/sharing/rest/content/items/5c29e89403a0461db4c6dd95ac184f8d/data</href>
+            </Icon>
+            <scale>1</scale>
+            <hotSpot x="10" y="10" width="20" height="20" xunits="pixels" yunits="pixels" />
+          </IconStyle>
+        </Style>
+        <Point>
+          <altitudeMode>clampToGround</altitudeMode>
+          <coordinates> 8.311996,40.579369,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,14 @@
+{
+  "conditions": [
+    {
+      "operator": "&&",
+      "filters": [
+        {
+          "field": "doc.age",
+          "comparator": "==",
+          "value": 22
+        }
+      ]
+    }
+  ]
+}

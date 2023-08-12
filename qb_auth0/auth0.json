@@ -1,0 +1,15 @@
+{
+  "secrets": {
+    "auth": "this-is-secret-to-encrypt-userdata",
+    "access": "123456789",
+    "refresh": "qazwsxedc"
+  },
+  "cache-storage": {
+    "driver": "bolt",
+    "dsn": "root:root@file:./data/cache.dat"
+  },
+  "auth-storage": {
+    "driver": "arango",
+    "dsn": "root:root@tcp(localhost:8529)/test)"
+  }
+}

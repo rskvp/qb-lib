@@ -1,0 +1,4 @@
+{
+  "driver": "odbc",
+  "dsn": "server=79.11.253.77,1433;database=TrendMA;uid=extsql;pwd=QwErT1234;TDS_Version=8.0;"
+}

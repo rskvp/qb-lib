@@ -1,0 +1,4 @@
+{
+  "driver": "mysql",
+  "dsn": "admin:!qaz2WSX098@tcp(localhost:3306)/test)"
+}

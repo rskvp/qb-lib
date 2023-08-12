@@ -1,0 +1,4 @@
+{
+  "driver": "arango",
+  "dsn": "root:!qaz2WSX098@tcp(localhost:8529)/test)"
+}

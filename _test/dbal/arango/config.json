@@ -1,0 +1,9 @@
+{
+  "endpoints": [
+    "http://localhost:8529"
+  ],
+  "authentication": {
+    "username": "root",
+    "password": "xxxxx"
+  }
+}
